@@ -24,4 +24,6 @@ I'm Yamura, at least that's how I'm known on the Internet! I'm a passionate game
 ---
 [![](https://visitcount.itsvg.in/api?id=Yxmura&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Yxmura/Yxmura/output/snake.svg" alt="Snake animation" />
+
+###
