@@ -13,7 +13,7 @@
 - Student by day, code goblin by night 🌙
 - Fluent in Python, React, Next.js, Vite, Tailwind, JS/TS, HTML, CSS, and probably something new tomorrow!
 - If my code runs, it's a miracle. If it looks good, that's just Tailwind magic ✨
-- I built [renderdragon.org](https://renderdragon.org) because dragons are cute and so am I (source: trust me bro)
+- I built [renderdragon.org](https://renderdragon.org) because dragons are cool and so am I (source: trust me bro)
 - Portfolio: [yamura.dev](https://yamura.dev)
 
 ---
