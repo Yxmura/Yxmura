@@ -1,6 +1,39 @@
-# 💫 About Me:
-I'm [Yamura](https://yamura.me), at least that's how I'm known on the Internet! I code sometimes ;D
+<!-- Yxmura's Cute & Meme-Powered GitHub Profile README -->
 
-![Profile views](https://views.igorkowalczyk.dev/api/badge/@yxmura?style=classic)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" width="120" alt="dragon gif"/>
+  <h1>✨ Hi, I'm Yxmura! ✨</h1>
+  <p><b>Student • Dreamer • Certified Meme Distributor</b></p>
+</div>
+
+---
+
+## 💖 About Me
+
+- Student by day, code goblin by night 🌙
+- Fluent in Python, React, Next.js, Vite, Tailwind, JS/TS, HTML, CSS, and probably something new tomorrow!
+- If my code runs, it's a miracle. If it looks good, that's just Tailwind magic ✨
+- I built [renderdragon.org](https://renderdragon.org) because dragons are cute and so am I (source: trust me bro)
+- Portfolio: [yamura.dev](https://yamura.dev)
+
+---
+
+## 🐾 Fun Stuff
+
+- Debugging: 90% staring, 10% fixing
+- Comments = memes, always
+- “It works on my machine!” – Me, always
+- [![meme](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://windows.com)  
+  <sub>I use Windows btw, so I'm not a femboy. My RGB is fabulous though.</sub>
+- If you’re reading this, you have amazing taste 💅
+
+---
+
+## 🌈 Links
+
+- 🐉 [renderdragon.org](https://renderdragon.org)
+- 🌎 [yamura.dev](https://yamura.dev)
+
+---
+
+> “It’s not a bug, it’s a feature.” 🐾
