@@ -1,6 +1,4 @@
-Founder of [Renderdragon](https://renderdragon.org). Learning Rust and cybersecurity.
-
-[yamura.dev](https://yamura.dev)
+yamura.dev / currently learning Rust and cybersecurity.
 
 ## Projects
 
