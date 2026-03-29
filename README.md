@@ -1,14 +1,14 @@
-Founder of [Renderdragon](https://renderdragon.org). Building [Velour](https://velourai.me). Learning Rust and cybersecurity.
+Founder of [Renderdragon](https://renderdragon.org). Learning Rust and cybersecurity.
 
 [yamura.dev](https://yamura.dev)
 
 ## Projects
 
-- **[Velour](https://velourai.me)** — AI companion that actually listens
-- **[Platcha](https://github.com/Yxmura/platcha)** — Minecraft marketplace (private)
-- **[brailk](https://vwc.yamura.dev)** — Flemish math notation to Typst
+- **[Platcha](https://github.com/Yxmura/platcha)** — Minecraft marketplace with commerce and server orchestration (private)
+- **[brailk](https://vwc.yamura.dev)** — Flemish math notation to Typst converter
 - **[Packscaler](https://github.com/Yxmura/Packscaler)** — AI texture upscaler for Minecraft
 - **[Renderdragon](https://github.com/Yxmura/renderdragon)** — Tools for Minecraft content creators
+- **[Velour](https://velourai.me)** — AI companion with memory, preference enforcement, and privacy-first sessions
 
 ## Stack
 
