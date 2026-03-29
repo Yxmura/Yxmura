@@ -4,33 +4,37 @@ I build developer tools, AI systems, and Minecraft-related infrastructure. Curre
 
 ## What I'm Building
 
+### AI & Machine Learning
+- **Velour** - AI companion application with context-aware conversations and memory (private)
+- **Toku AI** - Conversational AI system with specialized training (private)
+
 ### Renderdragon Ecosystem
 Full-stack platform for Minecraft content creators:
 - **Renderdragon** - Core TypeScript toolkit for content automation ([repo](https://github.com/Yxmura/renderdragon))
 - **Renderdragon Native** - Cross-platform desktop application ([repo](https://github.com/Yxmura/Renderdragon-native))
+- **Renderbot v2** - Discord automation bot for creator workflows ([repo](https://github.com/Yxmura/renderbotv2))
+- **Resources** - Asset management system for creator resources ([repo](https://github.com/Yxmura/resources_renderdragon))
+
+### Minecraft Tools
+- **Platcha** - Full-featured Minecraft marketplace platform with commerce infrastructure (private, production)
+- **Auto Sky Maker** - Automatic Minecraft sky texture pack generator from images (private)
 - **Sky Maker** - Python utility for procedural sky generation ([repo](https://github.com/Yxmura/sky-maker))
+- **Packscaler** - AI-powered Minecraft texture pack upscaler ([repo](https://github.com/Yxmura/Packscaler))
 
-### AI & Machine Learning
-- **Helix** - Self-evolving coding model with RLEF and DPO training (private research)
-- **Velour** - AI companion application with context-aware conversations (private)
-- **MediAI** - AI-powered Discord moderation with automated content analysis (private)
+### Developer Tools
+- **brailk** - Python automation framework for developer workflows ([repo](https://github.com/Yxmura/brailk))
+- **t3proxy** - Proxy integration for AI chat services ([repo](https://github.com/Yxmura/t3proxy))
+- **rpbench** - Roleplay scenario benchmarking tool ([repo](https://github.com/Yxmura/rpbench))
 
-### Content Protection & Analysis
-- **Homoxion** - Copyright detection engine for YouTube and Spotify ([repo](https://github.com/Yxmura/Homoxion-concept))
-- **Osmium** - Music copyright checker for creator workflows ([repo](https://github.com/Yxmura/Osmium))
-
-### Community Infrastructure
-- **Platcha** - Minecraft marketplace platform (private, production)
-- **MCIndex** - Server listing and discovery platform (private)
-- **Creator On Wheels** - Resource hub for Minecraft creators ([v1](https://github.com/Yxmura/CreatorOnWheels_old), v2 in development)
-
-### Commercial Work
-- **Excendium Labs** - Technical infrastructure and web platform (private)
+### Web & Portfolio
+- **Portfolio v3** - Latest iteration of my personal site with motion design (private)
+- **Portfolio v2** - Previous portfolio with advanced animations (private)
+- **Yamura Motion Folio** - Experimental motion-based portfolio ([repo](https://github.com/Yxmura/yamura-motion-folio))
 
 ## Tech Stack
 
 **Languages:** TypeScript, Python, JavaScript  
-**Frontend:** React, Next.js, Tailwind  
+**Frontend:** React, Next.js, Tailwind, Motion  
 **Backend:** Node.js, Python, PostgreSQL  
 **AI/ML:** PyTorch, Transformers, RLEF/DPO  
 **Tools:** Arch Linux, Git, Docker
