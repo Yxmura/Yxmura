@@ -1,6 +1,6 @@
 Yamura
 
-Working on conversational AI, Minecraft infrastructure, and developer tooling. Currently learning Rust.
+Building AI systems and Minecraft infrastructure. Learning Rust and cybersecurity.
 
 ## Projects
 
