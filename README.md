@@ -1,6 +1,6 @@
 Yamura
 
-Building AI systems and developer tools.
+Building AI systems and developer tools. Currently learning Rust.
 
 ## Projects
 
@@ -12,6 +12,6 @@ Building AI systems and developer tools.
 
 ## Stack
 
-TypeScript, Python, Rust, React, Next.js, PostgreSQL, Drizzle, tRPC, Tailwind, Docker, AWS, Redis, Convex, Stripe, Resend, PyTorch, Framer Motion, Three.js, Tauri
+TypeScript, Python, Rust (learning), React, Next.js, PostgreSQL, Drizzle, tRPC, Tailwind, Docker, AWS, Redis, Convex, Stripe, Resend, PyTorch, Framer Motion, Three.js, Tauri
 
 [yamura.dev](https://yamura.dev) / [renderdragon.org](https://renderdragon.org)
