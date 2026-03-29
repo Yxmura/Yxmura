@@ -1,6 +1,6 @@
 Yamura
 
-Building AI systems and developer tools.
+Building AI systems and developer tools. Currently working on conversational AI infrastructure and automation tooling.
 
 ## Projects
 
@@ -14,12 +14,4 @@ Building AI systems and developer tools.
 
 TypeScript, Python, React, Next.js, PostgreSQL, PyTorch
 
-## Links
-
-- [Website](https://yamura4.vercel.app)
-- [YouTube](https://youtube.com)
-- [Renderdragon](https://renderdragon.org)
-
----
-
-Available for hire. Belgium.
+[Website](https://yamura.dev) — [Renderdragon](https://renderdragon.org)
