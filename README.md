@@ -12,6 +12,6 @@ Building AI systems and developer tools.
 
 ## Stack
 
-TypeScript, Python, React, Next.js, PostgreSQL, PyTorch
+TypeScript, Python, Rust, React, Next.js, PostgreSQL, Drizzle, tRPC, Tailwind, Docker, AWS, Redis, Convex, Stripe, Resend, PyTorch, Framer Motion, Three.js, Tauri
 
 [yamura.dev](https://yamura.dev) / [renderdragon.org](https://renderdragon.org)
