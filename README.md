@@ -2,11 +2,11 @@ yamura.dev / currently learning Rust and cybersecurity.
 
 ## Projects
 
-- **[Platcha](https://github.com/Yxmura/platcha)** — Minecraft marketplace with commerce and server orchestration (private)
-- **[brailk](https://vwc.yamura.dev)** — Flemish math notation to Typst converter
-- **[Packscaler](https://github.com/Yxmura/Packscaler)** — Minecraft texture pack upscaler/downscaler
-- **[Renderdragon](https://github.com/Yxmura/renderdragon)** — Tools for Minecraft content creators
-- **[Velour](https://velourai.me)** — AI companion with memory, preference enforcement, and privacy-first sessions
+- **[Platcha](https://github.com/Yxmura/platcha)** / Minecraft marketplace with commerce and server orchestration (private)
+- **[brailk](https://vwc.yamura.dev)** / Flemish math notation to Typst converter
+- **[Packscaler](https://github.com/Yxmura/Packscaler)** / Minecraft texture pack upscaler/downscaler
+- **[Renderdragon](https://github.com/Yxmura/renderdragon)** / Tools for Minecraft content creators
+- **[Velour](https://velourai.me)** / AI companion with memory, preference enforcement, and privacy-first sessions
 
 ## Stack
 
