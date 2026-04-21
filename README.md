@@ -2,10 +2,11 @@ yamura.dev / currently learning JS (intermediate) and cybersecurity.
 
 ## Projects
 
-- **[Platcha](https://github.com/Yxmura/platcha)** / Minecraft marketplace with commerce and server orchestration (private)
 - **[brailk](https://vwc.yamura.dev)** / Flemish math notation to Typst converter
 - **[Packscaler](https://github.com/Yxmura/Packscaler)** / Minecraft texture pack upscaler/downscaler
 - **[Renderdragon](https://github.com/Yxmura/renderdragon)** / Tools for Minecraft content creators
+- **[Platcha](https://github.com/Yxmura/platcha)** / Minecraft marketplace with commerce and server orchestration (private)
+- **[Clearcut](https://clearcut.vercel.app)** / In-browser AI background removal of images using Transformers.js and rmbg-1.4
 
 ## Stack
 
