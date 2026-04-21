@@ -5,7 +5,7 @@ yamura.dev / currently learning JS (intermediate) and cybersecurity.
 - **[brailk](https://vwc.yamura.dev)** / Flemish math notation to Typst converter
 - **[Packscaler](https://github.com/Yxmura/Packscaler)** / Minecraft texture pack upscaler/downscaler
 - **[Renderdragon](https://github.com/Yxmura/renderdragon)** / Tools for Minecraft content creators
-- **[Situation to idiom AI](https://www.yamura.dev/blog/from-6-to-a-custom-llm-building-a-bilingual-idiom-model) / Finetune with custom dataset to provide the corresponding idiom for a situation
+- **[Situation to idiom AI](https://www.yamura.dev/blog/from-6-to-a-custom-llm-building-a-bilingual-idiom-model)** / Finetune with custom dataset to provide the corresponding idiom for a situation
 - **[Platcha](https://github.com/Yxmura/platcha)** / Minecraft marketplace with commerce and server orchestration (private)
 - **[Clearcut](https://clearcut.vercel.app)** / In-browser AI background removal of images using Transformers.js and rmbg-1.4
 - **[Vonktherapie website](https://vonktherapie.be)** / Therapist's website
