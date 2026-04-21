@@ -1,4 +1,4 @@
-yamura.dev / currently learning Rust and cybersecurity.
+yamura.dev / currently learning JS (intermediate) and cybersecurity.
 
 ## Projects
 
