@@ -6,7 +6,6 @@ yamura.dev / currently learning JS (intermediate) and cybersecurity.
 - **[brailk](https://vwc.yamura.dev)** / Flemish math notation to Typst converter
 - **[Packscaler](https://github.com/Yxmura/Packscaler)** / Minecraft texture pack upscaler/downscaler
 - **[Renderdragon](https://github.com/Yxmura/renderdragon)** / Tools for Minecraft content creators
-- **[Velour](https://velourai.me)** / AI companion with memory, preference enforcement, and privacy-first sessions
 
 ## Stack
 
